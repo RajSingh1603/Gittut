@@ -16,3 +16,7 @@ Here we make strategies to handle missing values present in our dataset
 
 * **Feature Scaling**
 In order to ensure that a column does not overshadow other columns by the virtue of relatively larger numbers present within the said column compared to the other column(s)
+
+
+* **Feature Extraction**
+In order to ensure that a column does not overshadow other columns by the virtue of relatively larger numbers present within the said column compared to the other column(s)
